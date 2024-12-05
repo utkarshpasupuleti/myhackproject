@@ -1,6 +1,6 @@
 <div id="overlay" class="overlay">
     <div class="popup">
-        <button id="close-btn" class="close-btn">&times;</button>
+        <button id="close-btn" class="close-btn"></button>
         <div id="form-container" class="form-container">
             <!-- Signup Form -->
             <div id="signup-form" class="form">
